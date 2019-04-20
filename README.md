@@ -1,2 +1,1 @@
-# mygitest2
-Git测试
+this is a test
